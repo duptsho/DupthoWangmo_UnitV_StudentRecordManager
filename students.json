@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Karma Dorji",
+        "student_id": "S001",
+        "student_class": "Class 9",
+        "gender": "Male",
+        "email": "karma@example.com",
+        "marks": 82,
+        "active": true
+    },
+    {
+        "name": "Pema Choden",
+        "student_id": "S002",
+        "student_class": "Class 9",
+        "gender": "Female",
+        "email": "pema@example.com",
+        "marks": 91,
+        "active": true
+    },
+    {
+        "name": "Sonam Wangchuk",
+        "student_id": "S003",
+        "student_class": "Class 10",
+        "gender": "Male",
+        "email": "sonam@example.com",
+        "marks": 76,
+        "active": false
+    },
+    {
+        "name": "Duptho",
+        "student_id": "78238659875",
+        "student_class": "Class 10",
+        "gender": "Female",
+        "email": "wangmoduptho609@gmail.com",
+        "marks": 98,
+        "active": true
+    },
+    {
+        "name": "Dorji Choden",
+        "student_id": "iefoiyofhwkc",
+        "student_class": "Class 12",
+        "gender": "Male",
+        "email": "wangs123@gmail.com",
+        "marks": 98,
+        "active": true
+    }
+]
